@@ -10,6 +10,8 @@
 	if($connection && $db){
 		//echo "Database connected";
 	}
-	
+	else{
+		echo "<h1 align='center' style='color:red;' >No Database Found</h1>";
+	}
 
 ?>
