@@ -1,0 +1,28 @@
+.form-area{
+	margin-top: 50px;
+}
+.login-form h1{
+	margin-bottom: 50px;
+}
+.error{
+	color: red;
+	font-weight: bold;
+	font-style: italic;
+	margin-bottom: 20px;
+	display: block;
+}
+
+.msg{
+	color: green;
+	font-weight: bold;
+	font-style: italic;
+	margin-bottom: 20px;
+	display: block;
+}
+.footer-area{
+	background: #337AB7;
+	text-align: center;
+	padding: 20px 0;
+	color: #FFF;
+	margin-top: 50px;
+}
