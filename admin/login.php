@@ -75,7 +75,10 @@
     <br>
     <div class="login-form animated shake">
       <div class="container">
-        <h1 class="text-center">Student Managment System</h1>
+        <h1 class="text-center">Student Information System  
+        <a href="http://localhost/student-info/" class="btn btn-primary pull-right">Back to Main</a>
+
+        </h1>
         <div class="row">
           <div class="col-sm-4 col-sm-offset-4">
             <h2 class="text-center">Admin Login Form</h2>
@@ -94,8 +97,10 @@
               </div>
 
               <div>
-                <input type="submit" value="Login" name="login" class="btn btn-info pull-right">
+                  <input type="reset" value="Reset" name="reset" class="btn btn-info">
+                  <input type="submit" value="Login" name="login" class="btn btn-info ">
               </div>
+
             </form>
           </div>
         </div>
